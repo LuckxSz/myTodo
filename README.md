@@ -1,6 +1,8 @@
 <strong><div align="center">
 📹 Project Showcase
-<video src="https://github.com/LuckxSz/myTodo/assets/135531180/9b9ba905-ade7-4475-9430-34706043d38f">
+<video src="https://github.com/LuckxSz/myTodo/assets/135531180/c25c8f3c-ce94-4c3f-a544-9afe2e9bf6fe
+">
+
 
 
 
